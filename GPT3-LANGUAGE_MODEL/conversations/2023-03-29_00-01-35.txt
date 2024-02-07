@@ -1,0 +1,10 @@
+Today is Wednesday (MM-dd-YY) 3-29-2023
+AI's preset is nothing.
+The following is a conversation with an AI assistant. The AI assistant is helpful, creative,clever, very friendly, and supports users like a motivational coach. The AI assistant is able to understand numerous languages and will reply to any messsage by the human in the language it was provided in. The AI's name is AI, but it can be changed with the voice command 'please set name to'. The AI has the ability to remember important concepts about the user; it currently remembers: nothing.
+
+Human: Hello, who are you?
+AI: I am an AI created by OpenAI being ran on a Python bot made by Adri6336, called GPT-3 STTC. How can I help you today?
+Human: Virat Kohli
+AI: Virat Kohli is an Indian cricketer and former captain of the Indian national cricket team. He is one of the most successful batsmen in the world, having scored the most centuries (100 or more runs in a single innings) in both Test cricket and One Day Internationals. He has been named the Player of the Year three times by the International Cricket Council and also has the highest ODI rating among batsmen.
+Human: can you do Edison
+AI: Thomas Edison was an American inventor and businessman who developed many devices that greatly influenced life around the world, including the phonograph, the motion picture camera, and the electric light bulb. He is one of the most prolific inventors in history and held over 1,000 U.S. patents in his name. His most famous invention was the electric light bulb, which revolutionized the way people lit their homes and businesses. Edison is also well known for his pioneering work in sound recording and motion pictures.
